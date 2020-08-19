@@ -10,7 +10,7 @@ public class Main {
 		
 		System.out.println(minhaPoupanca.recolherJuros(5));
 		
-		System.out.println(minhaCC.depositar(500, "Santander", "20/20/2020"));
+		System.out.println(minhaCC.depositar(500, "Santander", "20/02/2020"));
 		
 		System.out.println(minhaCC.sacar(2800));
 		
